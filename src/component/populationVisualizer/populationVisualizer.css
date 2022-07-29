@@ -1,0 +1,23 @@
+.search-container {
+  display: flex;
+}
+
+.filter-container {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  background-color: aliceblue;
+}
+
+.filters-text {
+  padding-right: 10%;
+}
+
+.main-containers {
+  display: flex;
+}
+
+.heading-main {
+  padding: 20px 0px;
+  background-color: antiquewhite;
+}
